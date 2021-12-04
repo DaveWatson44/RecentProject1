@@ -1,0 +1,1 @@
+docker exec itui_db_1 pg_dump -U postgres itui > itui.sql

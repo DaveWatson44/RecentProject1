@@ -1,0 +1,23 @@
+{
+  "name": "davids_node_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "email.js",
+  "dependencies": {
+    "csv-parse": "^4.16.3",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.6.3",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/Dwatson04826/davids_node_tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Dwatson04826/davids_node_tools#readme"
+}
